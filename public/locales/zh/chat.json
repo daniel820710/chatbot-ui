@@ -14,7 +14,7 @@
   "Conversation": "對話",
   "OR": "或",
   "Loading...": "載入中...",
-  "Type a message or type "/" to select a prompt...": "輸入一條訊息或輸入 "/" 以選擇提示...",
+  "Type a message or type \"/\" to select a prompt...": "輸入一條訊息或輸入 \"/\" 以選擇提示...",
   "Error fetching models.": "獲取模型時出錯。",
   "AI": "AI",
   "You": "你",
